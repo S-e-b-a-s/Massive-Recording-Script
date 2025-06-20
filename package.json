@@ -1,5 +1,7 @@
 {
 	"dependencies": {
-		"purecloud-platform-client-v2": "^222.0.0"
+		"dotenv": "^16.5.0",
+		"purecloud-platform-client-v2": "^222.0.0",
+		"winston": "^3.10.0"
 	}
 }
